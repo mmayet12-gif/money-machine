@@ -1,0 +1,35 @@
+{
+  "pipeline_version": "1.0",
+  "model_policy": "local-ollama",
+  "niche": "personal finance",
+  "target_audience": "working adults 25-45",
+  "tone": "clear, practical, motivational",
+  "language": "English",
+  "output_root": "runs",
+  "prompts_root": "prompts",
+  "batch_size": 30,
+  "checkpointing": true,
+  "topics_source": {
+    "type": "json",
+    "path": "data/topics_seed.json"
+  },
+  "ollama": {
+    "base_url": "http://localhost:11434",
+    "model": "llama3.1:8b",
+    "max_retries": 2,
+    "timeouts": {
+      "connect_seconds": 10,
+      "read_seconds": 600
+    }
+  },
+  "streams": [
+    { "id": "S1", "name": "YouTube Long-form", "enabled": true, "output_formats": ["md", "txt"] },
+    { "id": "S2", "name": "YouTube Shorts", "enabled": true, "output_formats": ["md", "txt"] },
+    { "id": "S3", "name": "TikTok/Reels Scripts", "enabled": true, "output_formats": ["md", "txt"] },
+    { "id": "S4", "name": "SEO Blog Articles", "enabled": true, "output_formats": ["md", "html"] },
+    { "id": "S5", "name": "Email Newsletter Sequence", "enabled": true, "output_formats": ["md", "txt"] },
+    { "id": "S6", "name": "Affiliate Offer Assets", "enabled": true, "output_formats": ["md", "txt"] },
+    { "id": "S7", "name": "Digital Product Assets", "enabled": true, "output_formats": ["md", "txt"] },
+    { "id": "S8", "name": "Repurposing/Distribution Pack", "enabled": true, "output_formats": ["md", "txt"] }
+  ]
+}

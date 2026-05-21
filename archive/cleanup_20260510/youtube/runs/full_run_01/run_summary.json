@@ -1,0 +1,64 @@
+{
+  "run_id": "full_run_01",
+  "status": "completed",
+  "streams": {
+    "S1": {
+      "name": "YouTube Long-form",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    },
+    "S2": {
+      "name": "YouTube Shorts",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    },
+    "S3": {
+      "name": "TikTok/Reels Scripts",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    },
+    "S4": {
+      "name": "SEO Blog Articles",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    },
+    "S5": {
+      "name": "Email Newsletter Sequence",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    },
+    "S6": {
+      "name": "Affiliate Offer Assets",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    },
+    "S7": {
+      "name": "Digital Product Assets",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    },
+    "S8": {
+      "name": "Repurposing/Distribution Pack",
+      "total": 29,
+      "completed": 29,
+      "failed": 0,
+      "status": "completed"
+    }
+  },
+  "started_at_utc": "2026-04-26T16:12:55.831118",
+  "finished_at_utc": "2026-04-27T15:16:03.786364"
+}

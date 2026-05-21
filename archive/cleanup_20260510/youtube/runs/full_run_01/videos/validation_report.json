@@ -1,0 +1,205 @@
+{
+  "streams": {
+    "S1": {
+      "status": "validated",
+      "count": 29,
+      "pass_count": 29,
+      "fail_count": 0,
+      "sample": [
+        {
+          "file": "s1_long_01_7-money-habits-that-keep-you-broke.mp4",
+          "w": 1920,
+          "h": 1080,
+          "duration_sec": 253.6,
+          "has_audio": true,
+          "aspect_ratio": 1.778,
+          "size_mb": 4.76,
+          "status": "pass"
+        },
+        {
+          "file": "s1_long_02_how-to-save-1-000-in-30-days-any-inc.mp4",
+          "w": 1920,
+          "h": 1080,
+          "duration_sec": 155.67,
+          "has_audio": true,
+          "aspect_ratio": 1.778,
+          "size_mb": 2.97,
+          "status": "pass"
+        },
+        {
+          "file": "s1_long_03_index-funds-for-beginners-2026.mp4",
+          "w": 1920,
+          "h": 1080,
+          "duration_sec": 260.71,
+          "has_audio": true,
+          "aspect_ratio": 1.778,
+          "size_mb": 5.1,
+          "status": "pass"
+        }
+      ]
+    },
+    "S2": {
+      "status": "validated",
+      "count": 11,
+      "pass_count": 0,
+      "fail_count": 11,
+      "sample": [
+        {
+          "file": "s2_shorts_01_7-money-habits-that-keep-you-broke.mp4",
+          "w": 1080,
+          "h": 1920,
+          "duration_sec": 185.04,
+          "has_audio": true,
+          "aspect_ratio": 0.562,
+          "size_mb": 3.03,
+          "status": "fail",
+          "issue": "S2 exceeds 60s Shorts/Reels limit"
+        },
+        {
+          "file": "s2_shorts_02_how-to-save-1-000-in-30-days-any-inc.mp4",
+          "w": 1080,
+          "h": 1920,
+          "duration_sec": 143.62,
+          "has_audio": true,
+          "aspect_ratio": 0.562,
+          "size_mb": 2.33,
+          "status": "fail",
+          "issue": "S2 exceeds 60s Shorts/Reels limit"
+        },
+        {
+          "file": "s2_shorts_03_index-funds-for-beginners-2026.mp4",
+          "w": 1080,
+          "h": 1920,
+          "duration_sec": 138.38,
+          "has_audio": true,
+          "aspect_ratio": 0.562,
+          "size_mb": 2.28,
+          "status": "fail",
+          "issue": "S2 exceeds 60s Shorts/Reels limit"
+        }
+      ]
+    },
+    "S3": {
+      "status": "missing_folder",
+      "count": 0
+    },
+    "S4": {
+      "status": "missing_folder",
+      "count": 0
+    },
+    "S5": {
+      "status": "missing_folder",
+      "count": 0
+    },
+    "S6": {
+      "status": "missing_folder",
+      "count": 0
+    },
+    "S7": {
+      "status": "missing_folder",
+      "count": 0
+    },
+    "S8": {
+      "status": "missing_folder",
+      "count": 0
+    }
+  },
+  "issues": [
+    {
+      "stream": "S2",
+      "file": "s2_shorts_01_7-money-habits-that-keep-you-broke.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_02_how-to-save-1-000-in-30-days-any-inc.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_03_index-funds-for-beginners-2026.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_04_credit-score-800-secrets-nobody-tell.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_05_side-hustles-that-actually-pay-in-20.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_06_what-happens-if-you-invest-100-every.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_07_the-50-30-20-budget-why-it-fails-and.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_08_frugal-living-tips-that-do-not-feel-.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_09_roth-ira-explained-in-10-minutes.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_10_why-you-are-still-living-paycheck-to.mp4",
+      "severity": "high",
+      "issue": "S2 exceeds 60s Shorts/Reels limit"
+    },
+    {
+      "stream": "S2",
+      "file": "s2_shorts_11_best-high-yield-savings-accounts-202.mp4",
+      "severity": "high",
+      "issue": "Read error: Error passing `ffmpeg -i` command output:\n\n[mov,mp4,m4a,3gp,3g2,mj2 @ 000002b1e64cf580] moov atom not found\r\n[in#0 @ 000002b1e64cf180] Error opening input: Invalid data found when processing input\r\nError opening input file C:\\money-machine\\youtube\\runs\\full_run_01\\videos\\S2\\s2_shorts_11_best-high-yield-savings-accounts-202.mp4.\r\nError opening input files: Invalid data found when processing input\r\n"
+    },
+    {
+      "stream": "S3",
+      "severity": "high",
+      "issue": "No rendered MP4 folder"
+    },
+    {
+      "stream": "S4",
+      "severity": "high",
+      "issue": "No rendered MP4 folder"
+    },
+    {
+      "stream": "S5",
+      "severity": "high",
+      "issue": "No rendered MP4 folder"
+    },
+    {
+      "stream": "S6",
+      "severity": "high",
+      "issue": "No rendered MP4 folder"
+    },
+    {
+      "stream": "S7",
+      "severity": "high",
+      "issue": "No rendered MP4 folder"
+    },
+    {
+      "stream": "S8",
+      "severity": "high",
+      "issue": "No rendered MP4 folder"
+    }
+  ]
+}

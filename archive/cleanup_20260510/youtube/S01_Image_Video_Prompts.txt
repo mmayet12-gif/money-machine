@@ -1,0 +1,353 @@
+AI IMAGE & VIDEO PROMPTS — S1-04
+Title:    7 Money Habits That Keep You Broke
+Topic:    Personal Finance / Bad Money Habits
+Style:    Cinematic / Documentary
+Generated: 2026
+======================================================================
+COMPATIBLE WITH:
+  Images:  Midjourney v6, DALL-E 3, Stable Diffusion XL, ComfyUI
+  Video:   Runway Gen-3, Kling AI, Pika Labs, Sora
+  Format:  All main visuals 16:9 | Shorts/Stories 9:16
+======================================================================
+HOW TO USE:
+  - Copy the prompt exactly as written
+  - Add your preferred style suffix at the end if needed
+  - Negative prompts are included — paste them in the negative field
+  - Midjourney: add --ar 16:9 --v 6.1 --style raw at the end
+  - DALL-E 3: paste prompt directly, it ignores negative prompts
+  - SD/ComfyUI: use negative prompt field separately
+======================================================================
+
+
+== CATEGORY 1: OPENING HOOK VISUAL (1 prompt) ==
+-- Used at 0:00–0:15 --
+
+PROMPT 01 — The Broken Cycle
+----------------------------------------------------------------------
+A dramatic split-screen composition. Left half: a tired office worker
+in business casual clothing staring at a computer screen under harsh
+fluorescent lighting, expression exhausted but determined, shot from
+slightly below eye level. Right half: a smartphone screen showing a
+banking app with a balance of $3.47, the number glowing cold blue
+against a dark background. Center dividing line is a thin vertical
+beam of light. Cinematic color grade — left side warm amber tones,
+right side cold blue tones. Shallow depth of field. Film grain
+texture. Professional documentary photography style.
+Aspect ratio: 16:9
+Negative prompt: text overlays, watermarks, cartoonish, illustration,
+low quality, blurry, people looking at camera, smiling, happy
+
+VIDEO VERSION (Runway/Kling):
+Camera slowly pushes in on the split screen. Left side: the worker
+slumps slightly. Right side: the bank balance number ticks down from
+$47 to $3. Duration 4 seconds. Cinematic grade.
+----------------------------------------------------------------------
+
+
+== CATEGORY 2: B-ROLL FOOTAGE (7 prompts) ==
+-- Use throughout main content, one per habit section --
+
+PROMPT 02 — Automated Savings (Habit 1)
+----------------------------------------------------------------------
+Extreme close-up of a hand holding a modern smartphone. The screen
+shows a banking app with an "Automatic Transfer" confirmation
+screen. Green checkmark glowing softly. Background is a blurred
+home office — warm morning light through wooden blinds. The hand is
+relaxed, confident. Photorealistic. Shot on Sony A7IV style.
+Cinematic warm tones. Golden hour interior lighting.
+Aspect ratio: 16:9
+Negative prompt: text readable on screen, watermarks, staged feeling,
+stock photo aesthetic, bright white background
+----------------------------------------------------------------------
+
+PROMPT 03 — The Budget That Fails (Habit 2)
+----------------------------------------------------------------------
+A complex budget spreadsheet on a laptop screen, completely color
+coded with dozens of categories. The laptop sits on a messy desk —
+coffee cup with old coffee ring stains, crumpled receipts, a pen
+with the cap chewed off. The screen has a thin layer of dust. Nobody
+is using it. Natural window light casting long shadows. Moody,
+slightly desaturated color grade. Documentary realism.
+Aspect ratio: 16:9
+Negative prompt: clean desk, organized, person visible, bright colors,
+cheerful, text readable, stock photo
+----------------------------------------------------------------------
+
+PROMPT 04 — Credit Card Debt (Habit 3)
+----------------------------------------------------------------------
+Macro photograph of a credit card half-buried in a small pile of
+paper bills and coin change. The card is generic, no brand visible.
+Shallow depth of field — card in sharp focus, background heavily
+blurred. Dramatic side lighting from the left creating deep shadows
+between the bills. Color grade: cold, desaturated blues and grays
+with slight red channel boost. Concept: financial burden, weight of
+debt. Cinematic still life photography.
+Aspect ratio: 16:9
+Negative prompt: recognizable brand logos, person, cheerful colors,
+sharp background, studio white background
+----------------------------------------------------------------------
+
+PROMPT 05 — Lifestyle Creep (Habit 4)
+----------------------------------------------------------------------
+A time-lapse concept shown as a diptych within a single frame. Left
+panel: a modest apartment living room, simple furniture, 2019
+aesthetic. Right panel: the same room layout but upgraded — leather
+sofa, large TV, designer lamp — but the person sitting in both
+panels looks equally stressed, holding their head. Same person, same
+expression of financial anxiety, different surroundings. Warm indoor
+lighting. Photorealistic. Cinematic color grade.
+Aspect ratio: 16:9
+Negative prompt: happy expression, smiling, cartoonish, illustration,
+text overlay
+----------------------------------------------------------------------
+
+PROMPT 06 — Compound Interest Growth (Habit 5)
+----------------------------------------------------------------------
+Abstract cinematic visualization of compound growth. A single green
+seedling on the left side of frame gradually transforms into a
+towering tree on the right side, with the trunk made of stacked
+golden coins. The background transitions from dark soil to bright sky
+as it moves right. Depth of field blur on far left and far right.
+Cinematic color grade — earthy greens and warm golds. Concept:
+time, patience, exponential growth. Photorealistic digital art.
+Aspect ratio: 16:9
+Negative prompt: graphs, charts, text, cartoonish, flat illustration,
+neon colors
+----------------------------------------------------------------------
+
+PROMPT 07 — Emergency Fund Shield (Habit 6)
+----------------------------------------------------------------------
+A glass jar filled with rolled banknotes sits on a kitchen counter.
+The jar is labeled with a handwritten paper tag that reads
+"EMERGENCY" in simple block letters. Behind the jar, slightly out of
+focus: a calendar on the wall, a car key, and a medical bill
+envelope — symbols of life's unexpected costs. Warm kitchen lighting.
+Photorealistic. Shot from slightly above, angled down 15 degrees.
+Depth of field — jar in sharp focus.
+Aspect ratio: 16:9
+Negative prompt: studio backdrop, white background, too clean,
+digital art style, 3D render
+----------------------------------------------------------------------
+
+PROMPT 08 — Depreciating Asset (Habit 7)
+----------------------------------------------------------------------
+A shiny new car sits in a dealership lot at dusk, showroom lights
+glowing behind it. Superimposed over the car is a subtle transparent
+downward arrow graphic fading in — suggesting value loss. The car is
+generic, no visible brand. Cinematic blue-hour lighting. The car
+looks impressive but the mood is melancholic. Shot wide, the car
+centered, lots of empty lot visible around it. Anamorphic lens
+distortion effect. Color grade: cool blues with warm amber highlights
+from the showroom.
+Aspect ratio: 16:9
+Negative prompt: visible brand logos, text, person, daytime, bright
+cheerful lighting, cartoon
+----------------------------------------------------------------------
+
+
+== CATEGORY 3: TRANSITION VISUALS (3 prompts) ==
+-- Use between habit sections to reset viewer attention --
+
+PROMPT 09 — Number Transition Card
+----------------------------------------------------------------------
+Minimalist dark background — deep charcoal, almost black. A single
+large number glows in the center of frame in clean sans-serif
+typography. The number is surrounded by subtle particle light effects,
+like embers drifting upward. No other elements. Cinematic. The number
+should feel important, weighty. Color: warm amber/gold numeral on
+dark background. 4K quality render.
+Aspect ratio: 16:9
+Negative prompt: colorful background, busy design, multiple elements,
+text other than the number, stock graphic aesthetic
+----------------------------------------------------------------------
+
+PROMPT 10 — Clock / Time Passing
+----------------------------------------------------------------------
+Extreme close-up of an analog clock face, shot from directly in
+front. The second hand is slightly motion-blurred suggesting movement.
+The clock face is simple, clean, no brand. Background completely out
+of focus — warm bokeh circles of amber and gold. Shallow depth of
+field. The image evokes the passage of time and urgency. Cinematic
+color grade. Moody lighting from the left.
+Aspect ratio: 16:9
+Negative prompt: digital clock, text on clock face, colorful,
+bright background, person
+----------------------------------------------------------------------
+
+PROMPT 11 — Money in Motion
+----------------------------------------------------------------------
+A slow-motion cinematic shot of paper banknotes gently falling
+through air against a pure black background. The bills are generic,
+no recognizable currency markings visible. Lighting: a single
+dramatic spotlight from above catches the bills mid-fall, creating
+highlights and deep shadows. Color grade: desaturated except for the
+warm tones of the paper currency. Concept: money slipping away.
+Aspect ratio: 16:9
+Negative prompt: recognizable currency, faces on bills, colorful
+background, fast motion, cartoonish
+----------------------------------------------------------------------
+
+
+== CATEGORY 4: DATA VISUALIZATION STYLE (2 prompts) ==
+-- For stats and numbers sections --
+
+PROMPT 12 — Compound Interest Chart Style
+----------------------------------------------------------------------
+A clean, minimalist data visualization showing an exponential growth
+curve. Dark slate background. The curve starts flat on the left and
+curves dramatically upward on the right — rendered in glowing warm
+amber. Two data points are marked: one on the flat early section,
+one at the top of the curve. No specific numbers visible — just the
+shape. Subtle grid lines. Professional financial infographic aesthetic.
+Cinematic lighting. 4K quality.
+Aspect ratio: 16:9
+Negative prompt: busy design, multiple lines, colorful rainbow,
+spreadsheet aesthetic, 3D bars
+----------------------------------------------------------------------
+
+PROMPT 13 — Split Outcome Comparison
+----------------------------------------------------------------------
+Two parallel vertical bars side by side on a dark background. Left
+bar is short, labeled with a subtle downward indicator. Right bar is
+tall, labeled with a subtle upward indicator. The contrast between
+them is dramatic — the right bar is nearly four times the height of
+the left. Minimalist design. Warm amber and cool blue color coding.
+Clean sans-serif typography. Cinematic grade. Professional financial
+visualization aesthetic.
+Aspect ratio: 16:9
+Negative prompt: complex data, many bars, rainbow colors, spreadsheet
+look, busy background, 3D effect
+----------------------------------------------------------------------
+
+
+== CATEGORY 5: THUMBNAIL CONCEPTS (5 prompts) ==
+-- High contrast, works at 154x86px, maximum CTR --
+
+PROMPT 14 — Thumbnail A: Shocked Face + Red X
+----------------------------------------------------------------------
+A close-up portrait of a young adult (25-35 years old, gender
+neutral, diverse) with an expression of genuine shock and realization
+— eyes wide, hand raised to mouth. Expression is authentic, not
+overdramatic. Background: blurred dark red gradient. Lighting:
+dramatic studio lighting from upper left, creating strong shadow on
+right side of face. High contrast. The image should feel urgent and
+relatable. Shot tight — face fills 70 percent of frame.
+Aspect ratio: 16:9 (crop to 16:9, face centered slightly left
+to allow text space on right)
+Negative prompt: smiling, happy, looking at camera and posing,
+low contrast, soft lighting, blurry face, white background
+----------------------------------------------------------------------
+
+PROMPT 15 — Thumbnail B: Empty Wallet Concept
+----------------------------------------------------------------------
+A leather wallet held open by two hands, completely empty — no
+cards, no cash. The wallet is opened facing the camera, the empty
+interior fully visible. Background: blurred dark background with a
+subtle red vignette at edges. Dramatic lighting on the wallet.
+Color grade: high contrast, slightly desaturated except for warm
+leather tones. Concept: financial emptiness, being broke. Close-up.
+Aspect ratio: 16:9
+Negative prompt: full wallet, credit cards visible, smiling person,
+bright background, stock photo aesthetic
+----------------------------------------------------------------------
+
+PROMPT 16 — Thumbnail C: Money Drain
+----------------------------------------------------------------------
+Top-down overhead shot of a kitchen drain or bathtub drain, with
+paper currency (generic bills) slowly swirling into it. The
+composition is circular and striking. High contrast lighting from
+directly above. Color grade: cold blue water tones contrasting with
+warm paper currency. The concept communicates money loss visually
+and instantly. Cinematic overhead drone-style perspective.
+Aspect ratio: 16:9
+Negative prompt: recognizable currency, faces on bills, cartoon,
+illustration, colorful, warm background
+----------------------------------------------------------------------
+
+PROMPT 17 — Thumbnail D: Person vs Habits
+----------------------------------------------------------------------
+Split composition. Left 40 percent of frame: a determined person
+standing confidently, arms crossed, lit with warm golden light.
+Right 60 percent: dark background with seven glowing red warning
+icons stacked vertically — each a simple symbol (credit card, car,
+dollar sign with X through it, etc). The contrast between the person
+and the warning icons creates visual tension. Cinematic. High
+contrast. Thumbnail-optimized composition.
+Aspect ratio: 16:9
+Negative prompt: smiling person, soft lighting, text visible,
+busy background, cartoonish icons
+----------------------------------------------------------------------
+
+PROMPT 18 — Thumbnail E: The Number 7
+----------------------------------------------------------------------
+A massive bold numeral 7 dominates the frame — rendered in glowing
+amber/gold against a dark charcoal background. The number has depth
+and dimension, lit from upper left with a subtle glow effect. In the
+lower right corner, small stacks of coins lead toward the number.
+Minimalist, powerful, immediately readable at small size. Cinematic.
+No text — the composition is the message.
+Aspect ratio: 16:9
+Negative prompt: text, words, cartoonish, flat design, rainbow
+colors, multiple numbers, busy background
+----------------------------------------------------------------------
+
+
+== CATEGORY 6: END SCREEN VISUAL (1 prompt) ==
+
+PROMPT 19 — End Screen Background
+----------------------------------------------------------------------
+A clean, minimal dark background suitable for YouTube end screen
+overlays. Deep charcoal background with very subtle texture — like
+dark brushed concrete or matte paper. In the lower third, a very
+faint warm gradient fades from amber to transparent. Two rectangular
+placeholder zones are visible as subtle lighter rectangles — left
+zone for video recommendation, right zone for subscribe button.
+The overall aesthetic is professional, cinematic, and does not
+compete with overlay elements. No text, no people.
+Aspect ratio: 16:9
+Negative prompt: bright colors, busy pattern, text, people, logos,
+distracting elements, white background
+----------------------------------------------------------------------
+
+PROMPT 20 — End Screen Branding Card
+----------------------------------------------------------------------
+A minimal channel brand card. Dark background with a single centered
+circle of warm light — like a spotlight on a stage. The spotlight
+area is empty, ready for a logo or channel name to be composited in.
+Around the edges, extremely subtle particle bokeh in warm amber.
+Clean. Premium. Simple. The aesthetic communicates trust and
+authority. No text visible. Cinematic quality render.
+Aspect ratio: 16:9
+Negative prompt: busy design, text, logos, bright colors, cartoonish,
+stock graphic feel, neon
+----------------------------------------------------------------------
+
+
+======================================================================
+PROMPT USAGE GUIDE BY TOOL:
+----------------------------------------------------------------------
+MIDJOURNEY:
+  Paste prompt + add: --ar 16:9 --v 6.1 --style raw --q 2
+  For thumbnails add: --ar 16:9 --v 6.1 --style raw --q 2 --chaos 20
+
+DALL-E 3 (via ChatGPT or API):
+  Paste prompt directly. Skip negative prompts — DALL-E ignores them.
+  Add "Photorealistic, cinematic, 16:9 composition" at end.
+
+STABLE DIFFUSION XL (local/ComfyUI):
+  Main prompt: paste as written
+  Negative prompt: paste the negative prompt line
+  Steps: 30-40 | CFG: 7 | Sampler: DPM++ 2M Karras
+
+RUNWAY GEN-3 / KLING AI (video):
+  Use the VIDEO VERSION notes where provided.
+  For others: paste the prompt + add "4 seconds, smooth camera
+  movement, cinematic color grade, no text"
+
+FREE LOCAL (ComfyUI + SDXL):
+  Download SDXL base model from HuggingFace
+  Use prompts as written with negative prompts
+  Enable face restoration (GFPGAN) for thumbnail portraits
+======================================================================
+NEXT: S1-05 — Thumbnail Design Briefs
+======================================================================

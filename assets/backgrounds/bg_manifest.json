@@ -1,0 +1,475 @@
+{
+  "bg_00_deep_abyss": {
+    "category": "gradient",
+    "mood": "dramatic",
+    "accent": [
+      218,
+      175,
+      65
+    ],
+    "name": "deep_abyss",
+    "index": 0
+  },
+  "bg_01_gold_vault": {
+    "category": "gradient",
+    "mood": "luxury",
+    "accent": [
+      255,
+      215,
+      80
+    ],
+    "name": "gold_vault",
+    "index": 1
+  },
+  "bg_02_emerald_night": {
+    "category": "gradient",
+    "mood": "wealth",
+    "accent": [
+      50,
+      255,
+      150
+    ],
+    "name": "emerald_night",
+    "index": 2
+  },
+  "bg_03_royal_purple": {
+    "category": "gradient",
+    "mood": "luxury",
+    "accent": [
+      200,
+      160,
+      255
+    ],
+    "name": "royal_purple",
+    "index": 3
+  },
+  "bg_04_crimson_noir": {
+    "category": "gradient",
+    "mood": "dramatic",
+    "accent": [
+      255,
+      80,
+      80
+    ],
+    "name": "crimson_noir",
+    "index": 4
+  },
+  "bg_05_midnight_steel": {
+    "category": "gradient",
+    "mood": "professional",
+    "accent": [
+      180,
+      200,
+      240
+    ],
+    "name": "midnight_steel",
+    "index": 5
+  },
+  "bg_06_bronze_horizon": {
+    "category": "gradient",
+    "mood": "warm",
+    "accent": [
+      255,
+      200,
+      100
+    ],
+    "name": "bronze_horizon",
+    "index": 6
+  },
+  "bg_07_arctic_blue": {
+    "category": "gradient",
+    "mood": "tech",
+    "accent": [
+      100,
+      200,
+      255
+    ],
+    "name": "arctic_blue",
+    "index": 7
+  },
+  "bg_08_hex_grid": {
+    "category": "geometric",
+    "mood": "tech",
+    "accent": [
+      0,
+      200,
+      255
+    ],
+    "name": "hex_grid",
+    "index": 8
+  },
+  "bg_09_golden_spiral": {
+    "category": "geometric",
+    "mood": "luxury",
+    "accent": [
+      218,
+      175,
+      65
+    ],
+    "name": "golden_spiral",
+    "index": 9
+  },
+  "bg_10_circuit_board": {
+    "category": "geometric",
+    "mood": "tech",
+    "accent": [
+      50,
+      255,
+      150
+    ],
+    "name": "circuit_board",
+    "index": 10
+  },
+  "bg_11_concentric_rings": {
+    "category": "geometric",
+    "mood": "dramatic",
+    "accent": [
+      200,
+      160,
+      255
+    ],
+    "name": "concentric_rings",
+    "index": 11
+  },
+  "bg_12_triangle_mesh": {
+    "category": "geometric",
+    "mood": "professional",
+    "accent": [
+      180,
+      200,
+      240
+    ],
+    "name": "triangle_mesh",
+    "index": 12
+  },
+  "bg_13_dot_matrix": {
+    "category": "geometric",
+    "mood": "professional",
+    "accent": [
+      255,
+      215,
+      80
+    ],
+    "name": "dot_matrix",
+    "index": 13
+  },
+  "bg_14_manhattan_night": {
+    "category": "cityscape",
+    "mood": "aspirational",
+    "accent": [
+      255,
+      200,
+      80
+    ],
+    "name": "manhattan_night",
+    "index": 14
+  },
+  "bg_15_dubai_gold": {
+    "category": "cityscape",
+    "mood": "luxury",
+    "accent": [
+      255,
+      215,
+      100
+    ],
+    "name": "dubai_gold",
+    "index": 15
+  },
+  "bg_16_tokyo_neon": {
+    "category": "cityscape",
+    "mood": "tech",
+    "accent": [
+      255,
+      50,
+      180
+    ],
+    "name": "tokyo_neon",
+    "index": 16
+  },
+  "bg_17_london_fog": {
+    "category": "cityscape",
+    "mood": "professional",
+    "accent": [
+      180,
+      200,
+      230
+    ],
+    "name": "london_fog",
+    "index": 17
+  },
+  "bg_18_diamond_facets": {
+    "category": "wealth_symbol",
+    "mood": "luxury",
+    "accent": [
+      180,
+      220,
+      255
+    ],
+    "name": "diamond_facets",
+    "index": 18
+  },
+  "bg_19_growth_bars": {
+    "category": "wealth_symbol",
+    "mood": "wealth",
+    "accent": [
+      50,
+      255,
+      120
+    ],
+    "name": "growth_bars",
+    "index": 19
+  },
+  "bg_20_crown_motif": {
+    "category": "wealth_symbol",
+    "mood": "luxury",
+    "accent": [
+      255,
+      215,
+      0
+    ],
+    "name": "crown_motif",
+    "index": 20
+  },
+  "bg_21_coin_abstract": {
+    "category": "wealth_symbol",
+    "mood": "wealth",
+    "accent": [
+      255,
+      200,
+      80
+    ],
+    "name": "coin_abstract",
+    "index": 21
+  },
+  "bg_22_star_field": {
+    "category": "particle_field",
+    "mood": "dramatic",
+    "accent": [
+      220,
+      230,
+      255
+    ],
+    "name": "star_field",
+    "index": 22
+  },
+  "bg_23_neural_net": {
+    "category": "particle_field",
+    "mood": "tech",
+    "accent": [
+      0,
+      200,
+      255
+    ],
+    "name": "neural_net",
+    "index": 23
+  },
+  "bg_24_gold_dust": {
+    "category": "particle_field",
+    "mood": "luxury",
+    "accent": [
+      255,
+      215,
+      80
+    ],
+    "name": "gold_dust",
+    "index": 24
+  },
+  "bg_25_constellation_map": {
+    "category": "particle_field",
+    "mood": "professional",
+    "accent": [
+      180,
+      200,
+      240
+    ],
+    "name": "constellation_map",
+    "index": 25
+  },
+  "bg_26_emerald_particles": {
+    "category": "particle_field",
+    "mood": "wealth",
+    "accent": [
+      50,
+      255,
+      150
+    ],
+    "name": "emerald_particles",
+    "index": 26
+  },
+  "bg_27_golden_spotlight": {
+    "category": "radial_burst",
+    "mood": "luxury",
+    "accent": [
+      255,
+      200,
+      80
+    ],
+    "name": "golden_spotlight",
+    "index": 27
+  },
+  "bg_28_dual_beam": {
+    "category": "radial_burst",
+    "mood": "dramatic",
+    "accent": [
+      100,
+      180,
+      255
+    ],
+    "name": "dual_beam",
+    "index": 28
+  },
+  "bg_29_center_burst": {
+    "category": "radial_burst",
+    "mood": "high_energy",
+    "accent": [
+      255,
+      255,
+      220
+    ],
+    "name": "center_burst",
+    "index": 29
+  },
+  "bg_30_corner_glow": {
+    "category": "radial_burst",
+    "mood": "professional",
+    "accent": [
+      180,
+      200,
+      240
+    ],
+    "name": "corner_glow",
+    "index": 30
+  },
+  "bg_31_black_gold_marble": {
+    "category": "marble_texture",
+    "mood": "luxury",
+    "accent": [
+      180,
+      150,
+      60
+    ],
+    "name": "black_gold_marble",
+    "index": 31
+  },
+  "bg_32_dark_jade": {
+    "category": "marble_texture",
+    "mood": "wealth",
+    "accent": [
+      60,
+      180,
+      100
+    ],
+    "name": "dark_jade",
+    "index": 32
+  },
+  "bg_33_midnight_silver": {
+    "category": "marble_texture",
+    "mood": "professional",
+    "accent": [
+      160,
+      170,
+      185
+    ],
+    "name": "midnight_silver",
+    "index": 33
+  },
+  "bg_34_crimson_onyx": {
+    "category": "marble_texture",
+    "mood": "dramatic",
+    "accent": [
+      180,
+      60,
+      50
+    ],
+    "name": "crimson_onyx",
+    "index": 34
+  },
+  "bg_35_candlestick": {
+    "category": "data_viz",
+    "mood": "wealth",
+    "accent": [
+      50,
+      255,
+      120
+    ],
+    "name": "candlestick",
+    "index": 35
+  },
+  "bg_36_network_graph": {
+    "category": "data_viz",
+    "mood": "tech",
+    "accent": [
+      0,
+      200,
+      255
+    ],
+    "name": "network_graph",
+    "index": 36
+  },
+  "bg_38_scatter_trend": {
+    "category": "data_viz",
+    "mood": "professional",
+    "accent": [
+      100,
+      200,
+      255
+    ],
+    "name": "scatter_trend",
+    "index": 38
+  },
+  "bg_39_waveform": {
+    "category": "data_viz",
+    "mood": "dramatic",
+    "accent": [
+      255,
+      80,
+      180
+    ],
+    "name": "waveform",
+    "index": 39
+  },
+  "bg_40_amber_leak": {
+    "category": "light_leak",
+    "mood": "warm",
+    "accent": [
+      255,
+      180,
+      50
+    ],
+    "name": "amber_leak",
+    "index": 40
+  },
+  "bg_41_neon_bleed": {
+    "category": "light_leak",
+    "mood": "tech",
+    "accent": [
+      0,
+      200,
+      255
+    ],
+    "name": "neon_bleed",
+    "index": 41
+  },
+  "bg_42_sunrise_flare": {
+    "category": "light_leak",
+    "mood": "aspirational",
+    "accent": [
+      255,
+      150,
+      50
+    ],
+    "name": "sunrise_flare",
+    "index": 42
+  },
+  "bg_43_cool_haze": {
+    "category": "light_leak",
+    "mood": "professional",
+    "accent": [
+      150,
+      200,
+      255
+    ],
+    "name": "cool_haze",
+    "index": 43
+  }
+}

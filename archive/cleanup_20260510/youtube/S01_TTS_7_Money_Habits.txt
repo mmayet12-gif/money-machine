@@ -1,0 +1,628 @@
+TTS OPTIMIZED SCRIPT — S1-03
+Title:    7 Money Habits That Keep You Broke
+Optimized for: ElevenLabs / Piper / Coqui TTS
+Voice style: Calm, authoritative, conversational — male or female neutral
+Generated: 2026
+======================================================================
+TTS SETTINGS (ElevenLabs recommended):
+  Stability:      0.45   (allows natural variation)
+  Similarity:     0.80   (stay close to voice)
+  Style:          0.35   (moderate expressiveness)
+  Speaker boost:  ON
+  Model:          eleven_multilingual_v2 or eleven_turbo_v2
+======================================================================
+PIPER SETTINGS (local/free):
+  Model:          en_US-lessac-high  (best free English voice)
+  Speed:          0.92               (slightly slower = clearer)
+  Noise scale:    0.667
+======================================================================
+
+NOTE FOR EDITOR:
+  - [PAUSE] = 0.6 second pause
+  - [PAUSE-LONG] = 1.2 second pause
+  - [BREATHE] = natural breath sound, 0.3 seconds
+  - **word** = strong emphasis (louder, slower)
+  - *word* = mild emphasis (slight stress)
+  - [EXCITED] / [SERIOUS] / [CURIOUS] = emotional direction for TTS
+  - Numbers already converted to spoken form
+  - Sentences max 12 words for clean TTS rendering
+======================================================================
+
+
+== HOOK ==
+
+[SERIOUS]
+
+[SOUND EFFECT: cash register — then silence]
+
+The average American earns over *two million dollars* in their lifetime.
+
+[PAUSE-LONG]
+
+And still retires with almost nothing.
+
+[PAUSE]
+
+That is not bad luck.
+
+[PAUSE]
+
+That is not the economy.
+
+[PAUSE]
+
+That is **habit**.
+
+[BREATHE]
+
+[CURIOUS]
+
+In the next ten minutes, [PAUSE] I am going to show you the seven habits that are *silently draining* your account.
+
+Month after month.
+
+No matter how much you earn.
+
+[PAUSE-LONG]
+
+
+== CONTEXT ==
+
+[SERIOUS]
+
+Here is what nobody talks about.
+
+[PAUSE]
+
+Income goes up. [PAUSE] Lifestyle goes up with it. [PAUSE] Savings? [PAUSE-LONG] **Flat.**
+
+[BREATHE]
+
+There is actually a name for this.
+
+Economists call it *lifestyle creep.* [PAUSE]
+
+And it is the single biggest wealth killer [PAUSE] for people who are not rich yet.
+
+[PAUSE]
+
+But lifestyle creep is just one of seven habits we are covering today.
+
+[BREATHE]
+
+Some of these [PAUSE] you already know about.
+
+Some of them [PAUSE] are going to surprise you.
+
+Let us get into it.
+
+[PAUSE-LONG]
+
+
+== HABIT ONE ==
+
+[SERIOUS]
+
+**Habit number one.** [PAUSE] Spending before saving.
+
+[BREATHE]
+
+Most people follow the same broken formula their entire lives.
+
+[PAUSE]
+
+Earn money. [PAUSE] Pay bills. [PAUSE] Spend what is left. [PAUSE]
+
+Save whatever remains. [PAUSE]
+
+Which is usually [PAUSE-LONG] **nothing**.
+
+[BREATHE]
+
+[CURIOUS]
+
+This is called paying yourself *last.* [PAUSE]
+
+And it is financial suicide [PAUSE] in slow motion.
+
+[PAUSE]
+
+[SERIOUS]
+
+The fix is almost *insultingly* simple.
+
+[PAUSE]
+
+**Automate a transfer to savings [PAUSE] the same day your paycheck hits.**
+
+Before you see it. [PAUSE] Before you touch it. [PAUSE] Before you even think about it.
+
+[BREATHE]
+
+Even fifty dollars a month. [PAUSE] Even twenty dollars.
+
+The amount matters less [PAUSE] than the habit.
+
+[PAUSE]
+
+Pay yourself **first.** [PAUSE] Every single time. [PAUSE] Non-negotiable.
+
+[PAUSE-LONG]
+
+[EXCITED]
+
+People who automate their savings [PAUSE] save *two times more* than those who do it manually.
+
+[PAUSE]
+
+Two times more. [PAUSE] Same income. [PAUSE] Just automated.
+
+[PAUSE-LONG]
+
+
+== HABIT TWO ==
+
+[SERIOUS]
+
+**Habit number two.** [PAUSE] No budget. [PAUSE] Or a budget you ignore.
+
+[BREATHE]
+
+Here is a brutal truth.
+
+[PAUSE]
+
+A budget you do not follow [PAUSE] is *worse* than no budget at all.
+
+[PAUSE]
+
+Because it gives you the *feeling* of being responsible [PAUSE] without any of the results.
+
+[BREATHE]
+
+[CURIOUS]
+
+Most budgets fail for one reason. [PAUSE] They are too complicated.
+
+Fifteen categories. [PAUSE] Color coded spreadsheets. [PAUSE] Weekly reviews.
+
+[PAUSE]
+
+Nobody does that consistently.
+
+[PAUSE-LONG]
+
+[SERIOUS]
+
+Here is what actually works. [PAUSE] Three buckets.
+
+[PAUSE]
+
+**Needs. [PAUSE] Wants. [PAUSE] Savings.**
+
+[BREATHE]
+
+Fifty percent of your take-home goes to needs. [PAUSE] Rent, food, utilities.
+
+Thirty percent to wants.
+
+Twenty percent [PAUSE] straight to savings.
+
+[PAUSE]
+
+That is it.
+
+Set it up once. [PAUSE] Check it once a month. [PAUSE] Done.
+
+[PAUSE-LONG]
+
+[EXCITED]
+
+The best budget is not the most detailed one.
+
+It is the one [PAUSE] you **actually stick to.**
+
+[PAUSE-LONG]
+
+
+== HABIT THREE ==
+
+[SERIOUS]
+
+**Habit number three.** [PAUSE] Carrying high-interest debt like it is normal.
+
+[BREATHE]
+
+Credit card debt is a subscription [PAUSE] you signed up for by accident.
+
+[PAUSE]
+
+The average credit card interest rate right now [PAUSE] is over *twenty one percent.*
+
+[PAUSE]
+
+That means if you carry a five thousand dollar balance for a year [PAUSE]
+
+and only make minimum payments [PAUSE]
+
+you will pay over a **thousand dollars** [PAUSE] just in interest.
+
+[PAUSE-LONG]
+
+For nothing. [PAUSE] For air. [PAUSE]
+
+For the *privilege* of spending money [PAUSE] you did not have.
+
+[BREATHE]
+
+[SERIOUS]
+
+And here is the thing nobody tells you.
+
+[PAUSE]
+
+You **cannot** build wealth [PAUSE] while carrying high-interest debt.
+
+[PAUSE]
+
+It is mathematically impossible.
+
+[PAUSE]
+
+The interest eats every dollar of progress [PAUSE] before you even start.
+
+[PAUSE-LONG]
+
+[CURIOUS]
+
+Attack the highest interest debt first.
+
+Throw every extra dollar at it. [PAUSE] Then move to the next.
+
+This is called the avalanche method. [PAUSE]
+
+And it saves the most money [PAUSE] mathematically.
+
+[PAUSE-LONG]
+
+
+== HABIT FOUR ==
+
+[CURIOUS]
+
+**Habit number four.** [PAUSE] Lifestyle creep.
+
+[BREATHE]
+
+You get a raise. [PAUSE] Amazing.
+
+[PAUSE]
+
+You upgrade your apartment. [PAUSE] You get a newer car. [PAUSE]
+
+You start eating out more. [PAUSE]
+
+You buy a few things [PAUSE] you have been wanting.
+
+[PAUSE]
+
+Three months later [PAUSE-LONG]
+
+you are just as broke [PAUSE] as you were before the raise.
+
+[PAUSE-LONG]
+
+[SERIOUS]
+
+**That** is lifestyle creep. [PAUSE] And it is relentless.
+
+[BREATHE]
+
+The antidote is something called [PAUSE] a *lifestyle freeze.*
+
+[PAUSE]
+
+Every time your income goes up, [PAUSE] your lifestyle stays exactly the same.
+
+For at least *six months.*
+
+[PAUSE]
+
+Every extra dollar [PAUSE] goes directly into investments or debt payoff.
+
+[PAUSE-LONG]
+
+[EXCITED]
+
+Do this once [PAUSE] and you will feel it.
+
+Do it every raise [PAUSE] for a decade [PAUSE]
+
+and you will be [PAUSE] **genuinely wealthy.**
+
+[PAUSE-LONG]
+
+
+== HABIT FIVE ==
+
+[SERIOUS]
+
+**Habit number five.** [PAUSE] Not investing. [PAUSE] Or starting too late.
+
+[BREATHE]
+
+This one [PAUSE] physically hurts me to say.
+
+[PAUSE]
+
+If you invest two hundred dollars a month [PAUSE] starting at age twenty five [PAUSE]
+
+assuming a seven percent average annual return [PAUSE]
+
+by age sixty five [PAUSE] you will have over *five hundred and twenty five thousand dollars.*
+
+[PAUSE-LONG]
+
+[CURIOUS]
+
+If you wait until thirty five to start? [PAUSE]
+
+Same two hundred dollars a month. [PAUSE] Same seven percent return.
+
+[PAUSE-LONG]
+
+**Two hundred and forty thousand dollars.**
+
+[PAUSE-LONG]
+
+[SERIOUS]
+
+Same effort. [PAUSE] Same monthly amount.
+
+A *two hundred and eighty five thousand dollar* difference [PAUSE]
+
+because of **ten years.**
+
+[BREATHE]
+
+[SOUND EFFECT: slow ticking clock]
+
+Time in the market [PAUSE] is your most valuable asset.
+
+Not your salary. [PAUSE] Not your job title. [PAUSE] **Time.**
+
+[PAUSE]
+
+You do not need a lot of money to start investing.
+
+You need to *start.* [PAUSE] Today. [PAUSE] With whatever you have.
+
+[PAUSE-LONG]
+
+[EXCITED]
+
+Index funds. [PAUSE] Automatic monthly contributions. [PAUSE] Leave it alone.
+
+That is the entire strategy [PAUSE] for most people.
+
+[PAUSE-LONG]
+
+
+== HABIT SIX ==
+
+[SERIOUS]
+
+**Habit number six.** [PAUSE] No emergency fund.
+
+[BREATHE]
+
+Life will hit you. [PAUSE] That is guaranteed.
+
+[PAUSE]
+
+The question is not *if* something expensive will go wrong.
+
+It is [PAUSE-LONG] **when.**
+
+[BREATHE]
+
+[CURIOUS]
+
+And when it does [PAUSE]
+
+if you do not have a cash buffer [PAUSE]
+
+you go straight to the credit card. [PAUSE]
+
+Which charges twenty one percent interest. [PAUSE]
+
+Which digs a deeper hole. [PAUSE]
+
+Which makes everything [PAUSE] **worse.**
+
+[PAUSE-LONG]
+
+[SERIOUS]
+
+The rule is simple.
+
+[PAUSE]
+
+Three to six months of living expenses [PAUSE] in a high yield savings account.
+
+Not invested. [PAUSE] Not in crypto. [PAUSE]
+
+*Cash.* [PAUSE] Accessible. [PAUSE] Boring. [PAUSE] There.
+
+[PAUSE-LONG]
+
+[ENCOURAGED — use a warmer, slightly uplifting tone]
+
+Start with one thousand dollars [PAUSE] if six months feels impossible.
+
+[PAUSE]
+
+One thousand dollars [PAUSE] stops most financial emergencies
+
+from becoming [PAUSE] financial *disasters.*
+
+[PAUSE-LONG]
+
+
+== HABIT SEVEN ==
+
+[SERIOUS]
+
+**Habit number seven.** [PAUSE] Buying depreciating assets with debt.
+
+[BREATHE]
+
+A new car loses *ten percent* of its value [PAUSE]
+
+the moment you drive it off the lot.
+
+[PAUSE-LONG]
+
+And most people finance that car [PAUSE] at seven, eight, sometimes *ten percent* interest.
+
+[PAUSE]
+
+You are **paying extra** [PAUSE] to own something [PAUSE]
+
+that is simultaneously [PAUSE] **losing value.** [PAUSE]
+
+Every single month.
+
+[PAUSE-LONG]
+
+[CURIOUS]
+
+This is not just about cars. [PAUSE] It is the mindset.
+
+[PAUSE]
+
+Rich people buy *assets.* [PAUSE]
+
+Things that go **up** in value [PAUSE] or generate income.
+
+Houses. [PAUSE] Stocks. [PAUSE] Businesses. [PAUSE] Real estate.
+
+[BREATHE]
+
+[SERIOUS]
+
+People who stay broke [PAUSE] buy liabilities with debt.
+
+Cars, furniture, electronics, clothes [PAUSE]
+
+and pay *interest* [PAUSE] on things that are worth less [PAUSE]
+
+by the time they are paid off.
+
+[PAUSE-LONG]
+
+[CURIOUS]
+
+Start asking one question [PAUSE] before every purchase over five hundred dollars.
+
+[PAUSE-LONG]
+
+[SLOW, DELIBERATE]
+
+*"Is this going to be worth more [PAUSE] or less [PAUSE] in five years?"*
+
+[PAUSE-LONG]
+
+That one question [PAUSE] will change how you spend money [PAUSE] forever.
+
+[PAUSE-LONG]
+
+
+== CLOSE ==
+
+[SOUND EFFECT: music softens gradually]
+
+[SERIOUS]
+
+Let us bring it home.
+
+[PAUSE]
+
+Seven habits. [PAUSE] Seven wealth killers. [PAUSE] Here is the rapid-fire recap.
+
+[BREATHE]
+
+[SLIGHTLY FASTER PACE — confident, rhythmic]
+
+**One.** [PAUSE] Spending before saving. [PAUSE] Fix it: automate savings on payday.
+
+**Two.** [PAUSE] Ignoring your budget. [PAUSE] Fix it: use the fifty-thirty-twenty rule.
+
+**Three.** [PAUSE] Carrying high-interest debt. [PAUSE] Fix it: avalanche method, attack aggressively.
+
+**Four.** [PAUSE] Lifestyle creep. [PAUSE] Fix it: freeze your lifestyle every time income rises.
+
+**Five.** [PAUSE] Not investing early enough. [PAUSE] Fix it: start today, even with fifty dollars.
+
+**Six.** [PAUSE] No emergency fund. [PAUSE] Fix it: build to one thousand dollars first.
+
+**Seven.** [PAUSE] Buying liabilities with debt. [PAUSE] Fix it: ask if it appreciates before you buy.
+
+[PAUSE-LONG]
+
+[BREATHE]
+
+[SERIOUS]
+
+Now [PAUSE] here is what I want you to do right now.
+
+Not tomorrow. [PAUSE] **Right now.**
+
+[PAUSE]
+
+Pick the *one* habit from this list [PAUSE] that you know is your biggest problem.
+
+Just one. [PAUSE] Write it down. [PAUSE]
+
+And commit to changing that one thing [PAUSE] this month.
+
+[PAUSE-LONG]
+
+One habit changed [PAUSE]
+
+is worth more [PAUSE]
+
+than seven habits [PAUSE] thought about.
+
+[PAUSE-LONG]
+
+[CURIOUS]
+
+And if you want to know which of these habits [PAUSE]
+
+is secretly the *most expensive* one [PAUSE]
+
+and why most financial advice [PAUSE] gets it completely backwards [PAUSE]
+
+that breakdown is in this video [PAUSE] right here.
+
+[PAUSE]
+
+Save this video. [PAUSE] You are going to want to come back to it.
+
+[SOUND EFFECT: subtle uplifting music fade out]
+
+======================================================================
+END OF TTS SCRIPT
+Total segments: 98 | Est. runtime: 9m 45s–10m 20s depending on voice speed
+======================================================================
+QUICK CHECKLIST BEFORE RENDERING:
+  [ ] Numbers converted to spoken form          ✓
+  [ ] No symbols ($, %, &) remaining            ✓
+  [ ] Sentences under 12 words each             ✓
+  [ ] Pause markers placed at natural breaks    ✓
+  [ ] Emotional direction tags added            ✓
+  [ ] Contractions expanded (it's → it is)      ✓
+  [ ] Acronyms spelled out (IRA, TTS etc.)      — expand if using
+======================================================================
+NEXT: S1-04 — AI Image & Video Prompt Generation

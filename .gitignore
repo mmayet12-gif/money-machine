@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Credentials & OAuth tokens — NEVER COMMIT
+config/token.json
+config/token_seo.json
+config/client_secret.json
+config/orchestrator_state.json
+gumroad_token.json
+*.token.json
+.env
+*.env
+
+# Large output files — videos, audio
+output/
+shorts/
+tiktok_videos/
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+*.webm
+
+# Gameplay / asset clips
+assets/gameplay/
+assets/clips/
+
+# Generated images
+pinterest_pins/
+
+# Encoded product files (large base64 blobs)
+digital_products/*_b64.txt
+temp/
+tmp/
+inject*.js
+inject*.txt
+
+# Logs
+logs/
+
+# Cache
+optimization_cache.json
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large TTS model files
+tools/piper/*.onnx
+tools/piper/*.onnx.json
+tools/**/*.onnx
+*.onnx
+*.onnx.json
+
+
+# Embedded sub-repos (not submodules)
+money-machinetrading-bot/
+trading-bot/
+
