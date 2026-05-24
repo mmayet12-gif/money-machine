@@ -1,5 +1,0 @@
-# If using NVIDIA NIM:
-NVIDIA_NIM_API_KEY="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"
-
-# If using OpenRouter:
-OPENROUTER_API_KEY="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" 
